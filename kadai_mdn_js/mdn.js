@@ -1,4 +1,4 @@
-const day = new Date(2023, 8, 22);
+const day = new Date();
 let year = day.getFullYear();
 let month = day.getMonth() + 1;
 let day2 = day.getDate();
